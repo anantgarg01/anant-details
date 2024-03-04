@@ -1,2 +1,2 @@
  # anant-details
-anant resume details
+anant resume full
